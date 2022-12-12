@@ -1,0 +1,506 @@
+inp w undefined A
+w: 9 x: 0 y: 0 z: 0
+mul x 0 
+w: 9 x: 0 y: 0 z: 0
+add x z 
+w: 9 x: 0 y: 0 z: 0
+mod x 26 
+w: 9 x: 0 y: 0 z: 0
+div z 1 
+w: 9 x: 0 y: 0 z: 0
+add x 13 
+w: 9 x: 13 y: 0 z: 0
+eql x w 
+w: 9 x: 0 y: 0 z: 0
+eql x 0 
+w: 9 x: 1 y: 0 z: 0
+mul y 0 
+w: 9 x: 1 y: 0 z: 0
+add y 25 
+w: 9 x: 1 y: 25 z: 0
+mul y x 
+w: 9 x: 1 y: 25 z: 0
+add y 1 
+w: 9 x: 1 y: 26 z: 0
+mul z y 
+w: 9 x: 1 y: 26 z: 0
+mul y 0 
+w: 9 x: 1 y: 0 z: 0
+add y w 
+w: 9 x: 1 y: 9 z: 0
+add y 10 
+w: 9 x: 1 y: 19 z: 0
+mul y x 
+w: 9 x: 1 y: 19 z: 0
+add z y 
+w: 9 x: 1 y: 19 z: 19
+inp w undefined B
+w: 8 x: 1 y: 19 z: 19
+mul x 0 
+w: 8 x: 0 y: 19 z: 19
+add x z 
+w: 8 x: 19 y: 19 z: 19
+mod x 26 
+w: 8 x: 19 y: 19 z: 19
+div z 1 
+w: 8 x: 19 y: 19 z: 19
+add x 11 
+w: 8 x: 30 y: 19 z: 19
+eql x w 
+w: 8 x: 0 y: 19 z: 19
+eql x 0 
+w: 8 x: 1 y: 19 z: 19
+mul y 0 
+w: 8 x: 1 y: 0 z: 19
+add y 25 
+w: 8 x: 1 y: 25 z: 19
+mul y x 
+w: 8 x: 1 y: 25 z: 19
+add y 1 
+w: 8 x: 1 y: 26 z: 19
+mul z y 
+w: 8 x: 1 y: 26 z: 494
+mul y 0 
+w: 8 x: 1 y: 0 z: 494
+add y w 
+w: 8 x: 1 y: 8 z: 494
+add y 16 
+w: 8 x: 1 y: 24 z: 494
+mul y x 
+w: 8 x: 1 y: 24 z: 494
+add z y 
+w: 8 x: 1 y: 24 z: 518
+inp w undefined C
+w: 7 x: 1 y: 24 z: 518
+mul x 0 
+w: 7 x: 0 y: 24 z: 518
+add x z 
+w: 7 x: 518 y: 24 z: 518
+mod x 26 
+w: 7 x: 24 y: 24 z: 518
+div z 1 
+w: 7 x: 24 y: 24 z: 518
+add x 11 
+w: 7 x: 35 y: 24 z: 518
+eql x w 
+w: 7 x: 0 y: 24 z: 518
+eql x 0 
+w: 7 x: 1 y: 24 z: 518
+mul y 0 
+w: 7 x: 1 y: 0 z: 518
+add y 25 
+w: 7 x: 1 y: 25 z: 518
+mul y x 
+w: 7 x: 1 y: 25 z: 518
+add y 1 
+w: 7 x: 1 y: 26 z: 518
+mul z y 
+w: 7 x: 1 y: 26 z: 13468
+mul y 0 
+w: 7 x: 1 y: 0 z: 13468
+add y w 
+w: 7 x: 1 y: 7 z: 13468
+add y 0 
+w: 7 x: 1 y: 7 z: 13468
+mul y x 
+w: 7 x: 1 y: 7 z: 13468
+add z y 
+w: 7 x: 1 y: 7 z: 13475
+inp w undefined D
+w: 6 x: 1 y: 7 z: 13475
+mul x 0 
+w: 6 x: 0 y: 7 z: 13475
+add x z 
+w: 6 x: 13475 y: 7 z: 13475
+mod x 26 
+w: 6 x: 7 y: 7 z: 13475
+div z 1 
+w: 6 x: 7 y: 7 z: 13475
+add x 10 
+w: 6 x: 17 y: 7 z: 13475
+eql x w 
+w: 6 x: 0 y: 7 z: 13475
+eql x 0 
+w: 6 x: 1 y: 7 z: 13475
+mul y 0 
+w: 6 x: 1 y: 0 z: 13475
+add y 25 
+w: 6 x: 1 y: 25 z: 13475
+mul y x 
+w: 6 x: 1 y: 25 z: 13475
+add y 1 
+w: 6 x: 1 y: 26 z: 13475
+mul z y 
+w: 6 x: 1 y: 26 z: 350350
+mul y 0 
+w: 6 x: 1 y: 0 z: 350350
+add y w 
+w: 6 x: 1 y: 6 z: 350350
+add y 13 
+w: 6 x: 1 y: 19 z: 350350
+mul y x 
+w: 6 x: 1 y: 19 z: 350350
+add z y 
+w: 6 x: 1 y: 19 z: 350369
+inp w undefined E
+w: 5 x: 1 y: 19 z: 350369
+mul x 0 
+w: 5 x: 0 y: 19 z: 350369
+add x z 
+w: 5 x: 350369 y: 19 z: 350369
+mod x 26 
+w: 5 x: 19 y: 19 z: 350369
+div z 26 
+w: 5 x: 19 y: 19 z: 13475
+add x -14 
+w: 5 x: 5 y: 19 z: 13475
+eql x w 
+w: 5 x: 1 y: 19 z: 13475
+eql x 0 
+w: 5 x: 0 y: 19 z: 13475
+mul y 0 
+w: 5 x: 0 y: 0 z: 13475
+add y 25 
+w: 5 x: 0 y: 25 z: 13475
+mul y x 
+w: 5 x: 0 y: 0 z: 13475
+add y 1 
+w: 5 x: 0 y: 1 z: 13475
+mul z y 
+w: 5 x: 0 y: 1 z: 13475
+mul y 0 
+w: 5 x: 0 y: 0 z: 13475
+add y w 
+w: 5 x: 0 y: 5 z: 13475
+add y 7 
+w: 5 x: 0 y: 12 z: 13475
+mul y x 
+w: 5 x: 0 y: 0 z: 13475
+add z y 
+w: 5 x: 0 y: 0 z: 13475
+inp w undefined F
+w: 3 x: 0 y: 0 z: 13475
+mul x 0 
+w: 3 x: 0 y: 0 z: 13475
+add x z 
+w: 3 x: 13475 y: 0 z: 13475
+mod x 26 
+w: 3 x: 7 y: 0 z: 13475
+div z 26 
+w: 3 x: 7 y: 0 z: 518
+add x -4 
+w: 3 x: 3 y: 0 z: 518
+eql x w 
+w: 3 x: 1 y: 0 z: 518
+eql x 0 
+w: 3 x: 0 y: 0 z: 518
+mul y 0 
+w: 3 x: 0 y: 0 z: 518
+add y 25 
+w: 3 x: 0 y: 25 z: 518
+mul y x 
+w: 3 x: 0 y: 0 z: 518
+add y 1 
+w: 3 x: 0 y: 1 z: 518
+mul z y 
+w: 3 x: 0 y: 1 z: 518
+mul y 0 
+w: 3 x: 0 y: 0 z: 518
+add y w 
+w: 3 x: 0 y: 3 z: 518
+add y 11 
+w: 3 x: 0 y: 14 z: 518
+mul y x 
+w: 3 x: 0 y: 0 z: 518
+add z y 
+w: 3 x: 0 y: 0 z: 518
+inp w undefined G
+w: 1 x: 0 y: 0 z: 518
+mul x 0 
+w: 1 x: 0 y: 0 z: 518
+add x z 
+w: 1 x: 518 y: 0 z: 518
+mod x 26 
+w: 1 x: 24 y: 0 z: 518
+div z 1 
+w: 1 x: 24 y: 0 z: 518
+add x 11 
+w: 1 x: 35 y: 0 z: 518
+eql x w 
+w: 1 x: 0 y: 0 z: 518
+eql x 0 
+w: 1 x: 1 y: 0 z: 518
+mul y 0 
+w: 1 x: 1 y: 0 z: 518
+add y 25 
+w: 1 x: 1 y: 25 z: 518
+mul y x 
+w: 1 x: 1 y: 25 z: 518
+add y 1 
+w: 1 x: 1 y: 26 z: 518
+mul z y 
+w: 1 x: 1 y: 26 z: 13468
+mul y 0 
+w: 1 x: 1 y: 0 z: 13468
+add y w 
+w: 1 x: 1 y: 1 z: 13468
+add y 11 
+w: 1 x: 1 y: 12 z: 13468
+mul y x 
+w: 1 x: 1 y: 12 z: 13468
+add z y 
+w: 1 x: 1 y: 12 z: 13480
+inp w undefined H
+w: 9 x: 1 y: 12 z: 13480
+mul x 0 
+w: 9 x: 0 y: 12 z: 13480
+add x z 
+w: 9 x: 13480 y: 12 z: 13480
+mod x 26 
+w: 9 x: 12 y: 12 z: 13480
+div z 26 
+w: 9 x: 12 y: 12 z: 518
+add x -3 
+w: 9 x: 9 y: 12 z: 518
+eql x w 
+w: 9 x: 1 y: 12 z: 518
+eql x 0 
+w: 9 x: 0 y: 12 z: 518
+mul y 0 
+w: 9 x: 0 y: 0 z: 518
+add y 25 
+w: 9 x: 0 y: 25 z: 518
+mul y x 
+w: 9 x: 0 y: 0 z: 518
+add y 1 
+w: 9 x: 0 y: 1 z: 518
+mul z y 
+w: 9 x: 0 y: 1 z: 518
+mul y 0 
+w: 9 x: 0 y: 0 z: 518
+add y w 
+w: 9 x: 0 y: 9 z: 518
+add y 10 
+w: 9 x: 0 y: 19 z: 518
+mul y x 
+w: 9 x: 0 y: 0 z: 518
+add z y 
+w: 9 x: 0 y: 0 z: 518
+inp w undefined I
+w: 1 x: 0 y: 0 z: 518
+mul x 0 
+w: 1 x: 0 y: 0 z: 518
+add x z 
+w: 1 x: 518 y: 0 z: 518
+mod x 26 
+w: 1 x: 24 y: 0 z: 518
+div z 1 
+w: 1 x: 24 y: 0 z: 518
+add x 12 
+w: 1 x: 36 y: 0 z: 518
+eql x w 
+w: 1 x: 0 y: 0 z: 518
+eql x 0 
+w: 1 x: 1 y: 0 z: 518
+mul y 0 
+w: 1 x: 1 y: 0 z: 518
+add y 25 
+w: 1 x: 1 y: 25 z: 518
+mul y x 
+w: 1 x: 1 y: 25 z: 518
+add y 1 
+w: 1 x: 1 y: 26 z: 518
+mul z y 
+w: 1 x: 1 y: 26 z: 13468
+mul y 0 
+w: 1 x: 1 y: 0 z: 13468
+add y w 
+w: 1 x: 1 y: 1 z: 13468
+add y 16 
+w: 1 x: 1 y: 17 z: 13468
+mul y x 
+w: 1 x: 1 y: 17 z: 13468
+add z y 
+w: 1 x: 1 y: 17 z: 13485
+inp w undefined J
+w: 5 x: 1 y: 17 z: 13485
+mul x 0 
+w: 5 x: 0 y: 17 z: 13485
+add x z 
+w: 5 x: 13485 y: 17 z: 13485
+mod x 26 
+w: 5 x: 17 y: 17 z: 13485
+div z 26 
+w: 5 x: 17 y: 17 z: 518
+add x -12 
+w: 5 x: 5 y: 17 z: 518
+eql x w 
+w: 5 x: 1 y: 17 z: 518
+eql x 0 
+w: 5 x: 0 y: 17 z: 518
+mul y 0 
+w: 5 x: 0 y: 0 z: 518
+add y 25 
+w: 5 x: 0 y: 25 z: 518
+mul y x 
+w: 5 x: 0 y: 0 z: 518
+add y 1 
+w: 5 x: 0 y: 1 z: 518
+mul z y 
+w: 5 x: 0 y: 1 z: 518
+mul y 0 
+w: 5 x: 0 y: 0 z: 518
+add y w 
+w: 5 x: 0 y: 5 z: 518
+add y 8 
+w: 5 x: 0 y: 13 z: 518
+mul y x 
+w: 5 x: 0 y: 0 z: 518
+add z y 
+w: 5 x: 0 y: 0 z: 518
+inp w undefined K
+w: 8 x: 0 y: 0 z: 518
+mul x 0 
+w: 8 x: 0 y: 0 z: 518
+add x z 
+w: 8 x: 518 y: 0 z: 518
+mod x 26 
+w: 8 x: 24 y: 0 z: 518
+div z 1 
+w: 8 x: 24 y: 0 z: 518
+add x 13 
+w: 8 x: 37 y: 0 z: 518
+eql x w 
+w: 8 x: 0 y: 0 z: 518
+eql x 0 
+w: 8 x: 1 y: 0 z: 518
+mul y 0 
+w: 8 x: 1 y: 0 z: 518
+add y 25 
+w: 8 x: 1 y: 25 z: 518
+mul y x 
+w: 8 x: 1 y: 25 z: 518
+add y 1 
+w: 8 x: 1 y: 26 z: 518
+mul z y 
+w: 8 x: 1 y: 26 z: 13468
+mul y 0 
+w: 8 x: 1 y: 0 z: 13468
+add y w 
+w: 8 x: 1 y: 8 z: 13468
+add y 15 
+w: 8 x: 1 y: 23 z: 13468
+mul y x 
+w: 8 x: 1 y: 23 z: 13468
+add z y 
+w: 8 x: 1 y: 23 z: 13491
+inp w undefined L
+w: 7 x: 1 y: 23 z: 13491
+mul x 0 
+w: 7 x: 0 y: 23 z: 13491
+add x z 
+w: 7 x: 13491 y: 23 z: 13491
+mod x 26 
+w: 7 x: 23 y: 23 z: 13491
+div z 26 
+w: 7 x: 23 y: 23 z: 518
+add x -12 
+w: 7 x: 11 y: 23 z: 518
+eql x w 
+w: 7 x: 0 y: 23 z: 518
+eql x 0 
+w: 7 x: 1 y: 23 z: 518
+mul y 0 
+w: 7 x: 1 y: 0 z: 518
+add y 25 
+w: 7 x: 1 y: 25 z: 518
+mul y x 
+w: 7 x: 1 y: 25 z: 518
+add y 1 
+w: 7 x: 1 y: 26 z: 518
+mul z y 
+w: 7 x: 1 y: 26 z: 13468
+mul y 0 
+w: 7 x: 1 y: 0 z: 13468
+add y w 
+w: 7 x: 1 y: 7 z: 13468
+add y 2 
+w: 7 x: 1 y: 9 z: 13468
+mul y x 
+w: 7 x: 1 y: 9 z: 13468
+add z y 
+w: 7 x: 1 y: 9 z: 13477
+inp w undefined M
+w: 6 x: 1 y: 9 z: 13477
+mul x 0 
+w: 6 x: 0 y: 9 z: 13477
+add x z 
+w: 6 x: 13477 y: 9 z: 13477
+mod x 26 
+w: 6 x: 9 y: 9 z: 13477
+div z 26 
+w: 6 x: 9 y: 9 z: 518
+add x -15 
+w: 6 x: -6 y: 9 z: 518
+eql x w 
+w: 6 x: 0 y: 9 z: 518
+eql x 0 
+w: 6 x: 1 y: 9 z: 518
+mul y 0 
+w: 6 x: 1 y: 0 z: 518
+add y 25 
+w: 6 x: 1 y: 25 z: 518
+mul y x 
+w: 6 x: 1 y: 25 z: 518
+add y 1 
+w: 6 x: 1 y: 26 z: 518
+mul z y 
+w: 6 x: 1 y: 26 z: 13468
+mul y 0 
+w: 6 x: 1 y: 0 z: 13468
+add y w 
+w: 6 x: 1 y: 6 z: 13468
+add y 5 
+w: 6 x: 1 y: 11 z: 13468
+mul y x 
+w: 6 x: 1 y: 11 z: 13468
+add z y 
+w: 6 x: 1 y: 11 z: 13479
+inp w undefined N
+w: 5 x: 1 y: 11 z: 13479
+mul x 0 
+w: 5 x: 0 y: 11 z: 13479
+add x z 
+w: 5 x: 13479 y: 11 z: 13479
+mod x 26 
+w: 5 x: 11 y: 11 z: 13479
+div z 26 
+w: 5 x: 11 y: 11 z: 518
+add x -12 
+w: 5 x: -1 y: 11 z: 518
+eql x w 
+w: 5 x: 0 y: 11 z: 518
+eql x 0 
+w: 5 x: 1 y: 11 z: 518
+mul y 0 
+w: 5 x: 1 y: 0 z: 518
+add y 25 
+w: 5 x: 1 y: 25 z: 518
+mul y x 
+w: 5 x: 1 y: 25 z: 518
+add y 1 
+w: 5 x: 1 y: 26 z: 518
+mul z y 
+w: 5 x: 1 y: 26 z: 13468
+mul y 0 
+w: 5 x: 1 y: 0 z: 13468
+add y w 
+w: 5 x: 1 y: 5 z: 13468
+add y 10 
+w: 5 x: 1 y: 15 z: 13468
+mul y x 
+w: 5 x: 1 y: 15 z: 13468
+add z y 
+w: 5 x: 1 y: 15 z: 13483
+[]
+w: 5 x: 1 y: 15 z: 13483

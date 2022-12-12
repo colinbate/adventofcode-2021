@@ -1,0 +1,507 @@
+31521119151421
+inp w undefined A
+w: 3 x: 0 y: 0 z: 0
+mul x 0 
+w: 3 x: 0 y: 0 z: 0
+add x z 
+w: 3 x: 0 y: 0 z: 0
+mod x 26 
+w: 3 x: 0 y: 0 z: 0
+div z 1 
+w: 3 x: 0 y: 0 z: 0
+add x 13 
+w: 3 x: 13 y: 0 z: 0
+eql x w 
+w: 3 x: 0 y: 0 z: 0
+eql x 0 
+w: 3 x: 1 y: 0 z: 0
+mul y 0 
+w: 3 x: 1 y: 0 z: 0
+add y 25 
+w: 3 x: 1 y: 25 z: 0
+mul y x 
+w: 3 x: 1 y: 25 z: 0
+add y 1 
+w: 3 x: 1 y: 26 z: 0
+mul z y 
+w: 3 x: 1 y: 26 z: 0
+mul y 0 
+w: 3 x: 1 y: 0 z: 0
+add y w 
+w: 3 x: 1 y: 3 z: 0
+add y 10 
+w: 3 x: 1 y: 13 z: 0
+mul y x 
+w: 3 x: 1 y: 13 z: 0
+add z y 
+w: 3 x: 1 y: 13 z: 13
+inp w undefined B
+w: 1 x: 1 y: 13 z: 13
+mul x 0 
+w: 1 x: 0 y: 13 z: 13
+add x z 
+w: 1 x: 13 y: 13 z: 13
+mod x 26 
+w: 1 x: 13 y: 13 z: 13
+div z 1 
+w: 1 x: 13 y: 13 z: 13
+add x 11 
+w: 1 x: 24 y: 13 z: 13
+eql x w 
+w: 1 x: 0 y: 13 z: 13
+eql x 0 
+w: 1 x: 1 y: 13 z: 13
+mul y 0 
+w: 1 x: 1 y: 0 z: 13
+add y 25 
+w: 1 x: 1 y: 25 z: 13
+mul y x 
+w: 1 x: 1 y: 25 z: 13
+add y 1 
+w: 1 x: 1 y: 26 z: 13
+mul z y 
+w: 1 x: 1 y: 26 z: 338
+mul y 0 
+w: 1 x: 1 y: 0 z: 338
+add y w 
+w: 1 x: 1 y: 1 z: 338
+add y 16 
+w: 1 x: 1 y: 17 z: 338
+mul y x 
+w: 1 x: 1 y: 17 z: 338
+add z y 
+w: 1 x: 1 y: 17 z: 355
+inp w undefined C
+w: 5 x: 1 y: 17 z: 355
+mul x 0 
+w: 5 x: 0 y: 17 z: 355
+add x z 
+w: 5 x: 355 y: 17 z: 355
+mod x 26 
+w: 5 x: 17 y: 17 z: 355
+div z 1 
+w: 5 x: 17 y: 17 z: 355
+add x 11 
+w: 5 x: 28 y: 17 z: 355
+eql x w 
+w: 5 x: 0 y: 17 z: 355
+eql x 0 
+w: 5 x: 1 y: 17 z: 355
+mul y 0 
+w: 5 x: 1 y: 0 z: 355
+add y 25 
+w: 5 x: 1 y: 25 z: 355
+mul y x 
+w: 5 x: 1 y: 25 z: 355
+add y 1 
+w: 5 x: 1 y: 26 z: 355
+mul z y 
+w: 5 x: 1 y: 26 z: 9230
+mul y 0 
+w: 5 x: 1 y: 0 z: 9230
+add y w 
+w: 5 x: 1 y: 5 z: 9230
+add y 0 
+w: 5 x: 1 y: 5 z: 9230
+mul y x 
+w: 5 x: 1 y: 5 z: 9230
+add z y 
+w: 5 x: 1 y: 5 z: 9235
+inp w undefined D
+w: 2 x: 1 y: 5 z: 9235
+mul x 0 
+w: 2 x: 0 y: 5 z: 9235
+add x z 
+w: 2 x: 9235 y: 5 z: 9235
+mod x 26 
+w: 2 x: 5 y: 5 z: 9235
+div z 1 
+w: 2 x: 5 y: 5 z: 9235
+add x 10 
+w: 2 x: 15 y: 5 z: 9235
+eql x w 
+w: 2 x: 0 y: 5 z: 9235
+eql x 0 
+w: 2 x: 1 y: 5 z: 9235
+mul y 0 
+w: 2 x: 1 y: 0 z: 9235
+add y 25 
+w: 2 x: 1 y: 25 z: 9235
+mul y x 
+w: 2 x: 1 y: 25 z: 9235
+add y 1 
+w: 2 x: 1 y: 26 z: 9235
+mul z y 
+w: 2 x: 1 y: 26 z: 240110
+mul y 0 
+w: 2 x: 1 y: 0 z: 240110
+add y w 
+w: 2 x: 1 y: 2 z: 240110
+add y 13 
+w: 2 x: 1 y: 15 z: 240110
+mul y x 
+w: 2 x: 1 y: 15 z: 240110
+add z y 
+w: 2 x: 1 y: 15 z: 240125
+inp w undefined E
+w: 1 x: 1 y: 15 z: 240125
+mul x 0 
+w: 1 x: 0 y: 15 z: 240125
+add x z 
+w: 1 x: 240125 y: 15 z: 240125
+mod x 26 
+w: 1 x: 15 y: 15 z: 240125
+div z 26 
+w: 1 x: 15 y: 15 z: 9235
+add x -14 
+w: 1 x: 1 y: 15 z: 9235
+eql x w 
+w: 1 x: 1 y: 15 z: 9235
+eql x 0 
+w: 1 x: 0 y: 15 z: 9235
+mul y 0 
+w: 1 x: 0 y: 0 z: 9235
+add y 25 
+w: 1 x: 0 y: 25 z: 9235
+mul y x 
+w: 1 x: 0 y: 0 z: 9235
+add y 1 
+w: 1 x: 0 y: 1 z: 9235
+mul z y 
+w: 1 x: 0 y: 1 z: 9235
+mul y 0 
+w: 1 x: 0 y: 0 z: 9235
+add y w 
+w: 1 x: 0 y: 1 z: 9235
+add y 7 
+w: 1 x: 0 y: 8 z: 9235
+mul y x 
+w: 1 x: 0 y: 0 z: 9235
+add z y 
+w: 1 x: 0 y: 0 z: 9235
+inp w undefined F
+w: 1 x: 0 y: 0 z: 9235
+mul x 0 
+w: 1 x: 0 y: 0 z: 9235
+add x z 
+w: 1 x: 9235 y: 0 z: 9235
+mod x 26 
+w: 1 x: 5 y: 0 z: 9235
+div z 26 
+w: 1 x: 5 y: 0 z: 355
+add x -4 
+w: 1 x: 1 y: 0 z: 355
+eql x w 
+w: 1 x: 1 y: 0 z: 355
+eql x 0 
+w: 1 x: 0 y: 0 z: 355
+mul y 0 
+w: 1 x: 0 y: 0 z: 355
+add y 25 
+w: 1 x: 0 y: 25 z: 355
+mul y x 
+w: 1 x: 0 y: 0 z: 355
+add y 1 
+w: 1 x: 0 y: 1 z: 355
+mul z y 
+w: 1 x: 0 y: 1 z: 355
+mul y 0 
+w: 1 x: 0 y: 0 z: 355
+add y w 
+w: 1 x: 0 y: 1 z: 355
+add y 11 
+w: 1 x: 0 y: 12 z: 355
+mul y x 
+w: 1 x: 0 y: 0 z: 355
+add z y 
+w: 1 x: 0 y: 0 z: 355
+inp w undefined G
+w: 1 x: 0 y: 0 z: 355
+mul x 0 
+w: 1 x: 0 y: 0 z: 355
+add x z 
+w: 1 x: 355 y: 0 z: 355
+mod x 26 
+w: 1 x: 17 y: 0 z: 355
+div z 1 
+w: 1 x: 17 y: 0 z: 355
+add x 11 
+w: 1 x: 28 y: 0 z: 355
+eql x w 
+w: 1 x: 0 y: 0 z: 355
+eql x 0 
+w: 1 x: 1 y: 0 z: 355
+mul y 0 
+w: 1 x: 1 y: 0 z: 355
+add y 25 
+w: 1 x: 1 y: 25 z: 355
+mul y x 
+w: 1 x: 1 y: 25 z: 355
+add y 1 
+w: 1 x: 1 y: 26 z: 355
+mul z y 
+w: 1 x: 1 y: 26 z: 9230
+mul y 0 
+w: 1 x: 1 y: 0 z: 9230
+add y w 
+w: 1 x: 1 y: 1 z: 9230
+add y 11 
+w: 1 x: 1 y: 12 z: 9230
+mul y x 
+w: 1 x: 1 y: 12 z: 9230
+add z y 
+w: 1 x: 1 y: 12 z: 9242
+inp w undefined H
+w: 9 x: 1 y: 12 z: 9242
+mul x 0 
+w: 9 x: 0 y: 12 z: 9242
+add x z 
+w: 9 x: 9242 y: 12 z: 9242
+mod x 26 
+w: 9 x: 12 y: 12 z: 9242
+div z 26 
+w: 9 x: 12 y: 12 z: 355
+add x -3 
+w: 9 x: 9 y: 12 z: 355
+eql x w 
+w: 9 x: 1 y: 12 z: 355
+eql x 0 
+w: 9 x: 0 y: 12 z: 355
+mul y 0 
+w: 9 x: 0 y: 0 z: 355
+add y 25 
+w: 9 x: 0 y: 25 z: 355
+mul y x 
+w: 9 x: 0 y: 0 z: 355
+add y 1 
+w: 9 x: 0 y: 1 z: 355
+mul z y 
+w: 9 x: 0 y: 1 z: 355
+mul y 0 
+w: 9 x: 0 y: 0 z: 355
+add y w 
+w: 9 x: 0 y: 9 z: 355
+add y 10 
+w: 9 x: 0 y: 19 z: 355
+mul y x 
+w: 9 x: 0 y: 0 z: 355
+add z y 
+w: 9 x: 0 y: 0 z: 355
+inp w undefined I
+w: 1 x: 0 y: 0 z: 355
+mul x 0 
+w: 1 x: 0 y: 0 z: 355
+add x z 
+w: 1 x: 355 y: 0 z: 355
+mod x 26 
+w: 1 x: 17 y: 0 z: 355
+div z 1 
+w: 1 x: 17 y: 0 z: 355
+add x 12 
+w: 1 x: 29 y: 0 z: 355
+eql x w 
+w: 1 x: 0 y: 0 z: 355
+eql x 0 
+w: 1 x: 1 y: 0 z: 355
+mul y 0 
+w: 1 x: 1 y: 0 z: 355
+add y 25 
+w: 1 x: 1 y: 25 z: 355
+mul y x 
+w: 1 x: 1 y: 25 z: 355
+add y 1 
+w: 1 x: 1 y: 26 z: 355
+mul z y 
+w: 1 x: 1 y: 26 z: 9230
+mul y 0 
+w: 1 x: 1 y: 0 z: 9230
+add y w 
+w: 1 x: 1 y: 1 z: 9230
+add y 16 
+w: 1 x: 1 y: 17 z: 9230
+mul y x 
+w: 1 x: 1 y: 17 z: 9230
+add z y 
+w: 1 x: 1 y: 17 z: 9247
+inp w undefined J
+w: 5 x: 1 y: 17 z: 9247
+mul x 0 
+w: 5 x: 0 y: 17 z: 9247
+add x z 
+w: 5 x: 9247 y: 17 z: 9247
+mod x 26 
+w: 5 x: 17 y: 17 z: 9247
+div z 26 
+w: 5 x: 17 y: 17 z: 355
+add x -12 
+w: 5 x: 5 y: 17 z: 355
+eql x w 
+w: 5 x: 1 y: 17 z: 355
+eql x 0 
+w: 5 x: 0 y: 17 z: 355
+mul y 0 
+w: 5 x: 0 y: 0 z: 355
+add y 25 
+w: 5 x: 0 y: 25 z: 355
+mul y x 
+w: 5 x: 0 y: 0 z: 355
+add y 1 
+w: 5 x: 0 y: 1 z: 355
+mul z y 
+w: 5 x: 0 y: 1 z: 355
+mul y 0 
+w: 5 x: 0 y: 0 z: 355
+add y w 
+w: 5 x: 0 y: 5 z: 355
+add y 8 
+w: 5 x: 0 y: 13 z: 355
+mul y x 
+w: 5 x: 0 y: 0 z: 355
+add z y 
+w: 5 x: 0 y: 0 z: 355
+inp w undefined K
+w: 1 x: 0 y: 0 z: 355
+mul x 0 
+w: 1 x: 0 y: 0 z: 355
+add x z 
+w: 1 x: 355 y: 0 z: 355
+mod x 26 
+w: 1 x: 17 y: 0 z: 355
+div z 1 
+w: 1 x: 17 y: 0 z: 355
+add x 13 
+w: 1 x: 30 y: 0 z: 355
+eql x w 
+w: 1 x: 0 y: 0 z: 355
+eql x 0 
+w: 1 x: 1 y: 0 z: 355
+mul y 0 
+w: 1 x: 1 y: 0 z: 355
+add y 25 
+w: 1 x: 1 y: 25 z: 355
+mul y x 
+w: 1 x: 1 y: 25 z: 355
+add y 1 
+w: 1 x: 1 y: 26 z: 355
+mul z y 
+w: 1 x: 1 y: 26 z: 9230
+mul y 0 
+w: 1 x: 1 y: 0 z: 9230
+add y w 
+w: 1 x: 1 y: 1 z: 9230
+add y 15 
+w: 1 x: 1 y: 16 z: 9230
+mul y x 
+w: 1 x: 1 y: 16 z: 9230
+add z y 
+w: 1 x: 1 y: 16 z: 9246
+inp w undefined L
+w: 4 x: 1 y: 16 z: 9246
+mul x 0 
+w: 4 x: 0 y: 16 z: 9246
+add x z 
+w: 4 x: 9246 y: 16 z: 9246
+mod x 26 
+w: 4 x: 16 y: 16 z: 9246
+div z 26 
+w: 4 x: 16 y: 16 z: 355
+add x -12 
+w: 4 x: 4 y: 16 z: 355
+eql x w 
+w: 4 x: 1 y: 16 z: 355
+eql x 0 
+w: 4 x: 0 y: 16 z: 355
+mul y 0 
+w: 4 x: 0 y: 0 z: 355
+add y 25 
+w: 4 x: 0 y: 25 z: 355
+mul y x 
+w: 4 x: 0 y: 0 z: 355
+add y 1 
+w: 4 x: 0 y: 1 z: 355
+mul z y 
+w: 4 x: 0 y: 1 z: 355
+mul y 0 
+w: 4 x: 0 y: 0 z: 355
+add y w 
+w: 4 x: 0 y: 4 z: 355
+add y 2 
+w: 4 x: 0 y: 6 z: 355
+mul y x 
+w: 4 x: 0 y: 0 z: 355
+add z y 
+w: 4 x: 0 y: 0 z: 355
+inp w undefined M
+w: 2 x: 0 y: 0 z: 355
+mul x 0 
+w: 2 x: 0 y: 0 z: 355
+add x z 
+w: 2 x: 355 y: 0 z: 355
+mod x 26 
+w: 2 x: 17 y: 0 z: 355
+div z 26 
+w: 2 x: 17 y: 0 z: 13
+add x -15 
+w: 2 x: 2 y: 0 z: 13
+eql x w 
+w: 2 x: 1 y: 0 z: 13
+eql x 0 
+w: 2 x: 0 y: 0 z: 13
+mul y 0 
+w: 2 x: 0 y: 0 z: 13
+add y 25 
+w: 2 x: 0 y: 25 z: 13
+mul y x 
+w: 2 x: 0 y: 0 z: 13
+add y 1 
+w: 2 x: 0 y: 1 z: 13
+mul z y 
+w: 2 x: 0 y: 1 z: 13
+mul y 0 
+w: 2 x: 0 y: 0 z: 13
+add y w 
+w: 2 x: 0 y: 2 z: 13
+add y 5 
+w: 2 x: 0 y: 7 z: 13
+mul y x 
+w: 2 x: 0 y: 0 z: 13
+add z y 
+w: 2 x: 0 y: 0 z: 13
+inp w undefined N
+w: 1 x: 0 y: 0 z: 13
+mul x 0 
+w: 1 x: 0 y: 0 z: 13
+add x z 
+w: 1 x: 13 y: 0 z: 13
+mod x 26 
+w: 1 x: 13 y: 0 z: 13
+div z 26 
+w: 1 x: 13 y: 0 z: 0
+add x -12 
+w: 1 x: 1 y: 0 z: 0
+eql x w 
+w: 1 x: 1 y: 0 z: 0
+eql x 0 
+w: 1 x: 0 y: 0 z: 0
+mul y 0 
+w: 1 x: 0 y: 0 z: 0
+add y 25 
+w: 1 x: 0 y: 25 z: 0
+mul y x 
+w: 1 x: 0 y: 0 z: 0
+add y 1 
+w: 1 x: 0 y: 1 z: 0
+mul z y 
+w: 1 x: 0 y: 1 z: 0
+mul y 0 
+w: 1 x: 0 y: 0 z: 0
+add y w 
+w: 1 x: 0 y: 1 z: 0
+add y 10 
+w: 1 x: 0 y: 11 z: 0
+mul y x 
+w: 1 x: 0 y: 0 z: 0
+add z y 
+w: 1 x: 0 y: 0 z: 0
+true
+w: 1 x: 0 y: 0 z: 0
